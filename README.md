@@ -1,4 +1,4 @@
-echo "# Flask JWT API
+## JWT-protection
 
 Цей проект демонструє простий Flask-додаток з використанням JWT для захисту API.
 
